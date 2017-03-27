@@ -4,14 +4,14 @@ body{
 padding:5%;
 font-size:100%;
 font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-font-weight: 300;
-color:rgb(55,55,55);
-background:rgba(245,245,245);
+font-weight: 700;
+color:rgb(91,91,91);
+background:url("http://data.whicdn.com/images/60803365/superthumb.jpg");
 line-height: 1.6;
 letter-spacing: 0.02em;
 }
 
-a{color:rgb(255,55,55);}
+a{color:rgb(140, 73, 198);}
 
 a:hover{color:rgb(255,55,55); text-decoration: none;}
 
